@@ -1,0 +1,18 @@
+{
+  "name": "primeros-pasos",
+  "version": "1.0.0",
+  "description": "tabla de multiplicar por linea de comando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noe",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "yargs": "^12.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}

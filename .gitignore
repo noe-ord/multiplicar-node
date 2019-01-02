@@ -1,0 +1,11 @@
+
+node_modules/
+
+
+tablas/*.txt
+
+# nota: cuando hacemos esto para no inclir estos archivos dentro de nuestro proyecto
+
+#Cuando creo un snapshot que es commit una foto del estado actual de mi proyecto
+# git add "archivos" "para seleccionar todos con un '.'"
+# 
