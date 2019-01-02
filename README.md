@@ -3,6 +3,6 @@
 This is an app for generate files of multiplication tables
 whit limits
 
-yuo run this comand
+you run this comand
 
 npm install 
